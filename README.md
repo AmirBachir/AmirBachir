@@ -8,7 +8,7 @@ Currently, my studies are focused on **Artificial Intelligence** and **Natural L
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Engineering at `Politecnico di  Milano`
 
-:office_building: **Professional experience:**
+:office: **Professional experience:**
  - **Data scientist** at [`Altilia`](https://altilia.ai/), building an `Intelligent Document Processing` platform. 
 
 <!-- :alembic: **Projects:** -->
@@ -29,7 +29,7 @@ Currently, my studies are focused on **Artificial Intelligence** and **Natural L
 - 🌱 I am currently developing data science complementary skills through personal projects
 - 🔭 NLP is what captures my attention
 - :open_book: Ravenous reader of Murakami
-- :water_wave: Boxing during the week and Windsurfing in the week-end
+- :surfer: Boxing during the week and Windsurfing in the week-end
 <!--
 **AmirBachir/AmirBachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
