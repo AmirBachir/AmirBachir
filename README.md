@@ -1,4 +1,4 @@
-## Hy there! Welcome to my github page 👋
+## Hi there! Welcome to my github page 👋
 
 My name is **Amir Bachir** and I'm a MSc graduate in Computer Science and Engineering at **Politecnico di Milano** and Interaction Technology at the **University of Twente**. The master thesis is an experimental research thesis on **Active Learning**, called [`Cold-start Active Learning for Text Classification of Business Documents`](#https://hdl.handle.net/10589/219585).
 Currently, my studies are focused on **Artificial Intelligence** and **Natural Language Processing**. It all started from a data mining course at POLIMI. 
